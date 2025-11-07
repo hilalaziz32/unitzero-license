@@ -1,4 +1,4 @@
-TERMS OF SERVICE
+PRIVACY POLICY
 
 Effective Date: January 2025
 
@@ -8,301 +8,425 @@ services@unitzero.tech
 
 --------------------------------------------------------------------------------
 
-1. ACCEPTANCE OF TERMS
+1. INTRODUCTION
 
-By accessing or using Automate Boutique (the "Service"), you agree to be bound by these Terms of Service. If you do not agree to these Terms, you may not use the Service.
+UNITZERO Pvt. Ltd. ("we," "us," "our") operates Automate Boutique, a customer relationship management and voice automation platform. This Privacy Policy explains how we collect, use, disclose, and protect your information when you use our Service.
 
-The Service is operated by UNITZERO Pvt. Ltd., a company registered in Pakistan. References to "we," "us," or "our" mean UNITZERO Pvt. Ltd. References to "you" or "your" mean the person or entity using the Service.
-
-By creating an account, you represent that:
-- You are at least 18 years of age
-- You have the authority to enter into this agreement
-- You will comply with all applicable laws
+By using the Service, you agree to the collection and use of information in accordance with this Privacy Policy. If you do not agree with this Privacy Policy, you must not use the Service.
 
 --------------------------------------------------------------------------------
 
-2. DESCRIPTION OF SERVICE
+2. INFORMATION WE COLLECT
 
-Automate Boutique provides:
-- Customer relationship management software
-- AI-powered voice receptionist services
-- Lead management and tracking tools
-- Business workflow automation
-- Data storage and analytics
+2.1 Account Information
+When you register for an account, we collect:
+- Full name
+- Email address
+- Company name
+- Phone number
+- Password (stored in hashed format)
+- Account credentials
 
-The Service is intended for business use only.
+2.2 Business Data
+Information you provide while using the Service:
+- Customer and lead information
+- Contact details
+- Notes and communications
+- Custom fields and categories
 
---------------------------------------------------------------------------------
+2.3 Call Data
+When you use our voice services:
+- Call recordings
+- Call transcripts
+- Phone numbers (inbound and outbound)
+- Call duration and timing
+- Call metadata and logs
 
-3. ACCOUNT REGISTRATION
+2.4 Usage Information
+- Login history and timestamps
+- Features accessed
+- Workflow execution logs
+- System interactions
+- API usage
 
-3.1 Registration Requirements
-You must provide accurate, current, and complete information during registration. You are responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account.
+2.5 Technical Information
+- IP address
+- Browser type and version
+- Device information
+- Operating system
+- Referring URLs
+- Pages visited and time spent
 
-3.2 Account Security
-You must notify us immediately at services@unitzero.tech if you suspect unauthorized access to your account. You are solely responsible for any losses resulting from unauthorized use of your account due to your failure to maintain security.
-
-3.3 Prohibited Uses
-You may not use the Service to:
-- Violate any applicable laws or regulations
-- Infringe on intellectual property rights of others
-- Transmit harmful code, viruses, or malware
-- Attempt unauthorized access to our systems
-- Harass, threaten, or harm others
-- Send spam or unsolicited communications
-- Reverse engineer or decompile any part of the Service
-- Resell or redistribute the Service without authorization
-- Use automated systems to access the Service without permission
-- Interfere with the proper functioning of the Service
-
-Violation of these prohibitions may result in immediate termination of your account.
-
---------------------------------------------------------------------------------
-
-4. INTELLECTUAL PROPERTY
-
-4.1 Ownership
-All aspects of the Service, including software, code, designs, algorithms, workflows, user interfaces, documentation, and trademarks, are the exclusive property of UNITZERO Pvt. Ltd.
-
-4.2 Limited License
-Subject to your compliance with these Terms, we grant you a limited, non-exclusive, non-transferable, revocable license to access and use the Service for your business purposes. This license does not grant you any ownership rights.
-
-4.3 Restrictions
-You may not:
-- Copy, modify, or create derivative works of the Service
-- Remove or alter any proprietary notices
-- Use the Service to develop competing products
-- Publicly disseminate benchmarks or performance data
-
-4.4 Your Data
-You retain ownership of all data you submit to the Service. By using the Service, you grant us a limited license to host, store, process, and backup your data solely to provide the Service. You are responsible for ensuring you have all necessary rights to the data you provide.
+2.6 Cookies and Tracking Technologies
+We use cookies and similar technologies for:
+- Session management and authentication
+- Remembering your preferences
+- Analytics and performance monitoring
 
 --------------------------------------------------------------------------------
 
-5. PAYMENT TERMS
+3. HOW WE USE YOUR INFORMATION
 
-5.1 Fees
-Current pricing consists of:
-- One-time setup fee: $1,400 (covers platform configuration and voice agent setup)
-- Monthly subscription: Based on selected plan (Starter, Business, or Enterprise)
+We use collected information for the following purposes:
 
-All fees are in United States Dollars (USD) unless otherwise specified.
+3.1 Service Delivery
+- Provide and maintain the Service
+- Process transactions and manage subscriptions
+- Authenticate users and manage accounts
+- Deliver voice agent services
+- Store and manage your business data
 
-5.2 Payment Processing
-Payments are processed through third-party payment processors. You authorize us to charge your provided payment method for all applicable fees. You must keep your payment information current.
+3.2 Service Improvement
+- Analyze usage patterns
+- Identify and fix technical issues
+- Develop new features
+- Improve AI voice agent performance
+- Train machine learning models (using de-identified data)
 
-5.3 Billing
-- Setup fees are charged upon service activation
-- Monthly fees are billed in advance on your billing date
-- Failed payments may result in service suspension
-- You are responsible for any applicable taxes
+3.3 Communication
+- Send service announcements and updates
+- Provide customer support
+- Send billing notifications
+- Respond to inquiries
+- Send important security alerts
 
-5.4 Price Changes
-We may change our pricing with 30 days advance notice. Price changes will not affect your current billing period. Continued use of the Service after a price change constitutes acceptance.
+3.4 Security and Fraud Prevention
+- Monitor for suspicious activity
+- Prevent unauthorized access
+- Protect against fraud and abuse
+- Enforce our Terms of Service
 
-5.5 Refunds and Cancellations
-
-Setup Fee:
-The setup fee is non-refundable once onboarding work has begun. If you cancel before setup commences, you may receive a refund at our sole discretion.
-
-Monthly Subscription:
-- You may cancel at any time through your account or by contacting services@unitzero.tech
-- Cancellation takes effect at the end of your current billing period
-- No refunds are provided for partial months or unused features
-- You remain responsible for all charges incurred before cancellation
-
-Refund Requests:
-- Must be submitted to services@unitzero.tech within 7 days of the charge
-- Must include account email, invoice number, and reason for request
-- We review all requests on a case-by-case basis
-- We reserve the right to deny requests involving service misuse
-- Approved refunds are processed within 14 business days
-
-Service Interruptions:
-If the Service is unavailable for more than 48 consecutive hours due to issues within our control (excluding scheduled maintenance), you may request a prorated credit. Service credits are our sole remedy for service interruptions.
-
-Chargebacks:
-Initiating a chargeback without contacting us first may result in immediate account termination and collection of unpaid fees.
+3.5 Legal Compliance
+- Comply with applicable laws and regulations
+- Respond to legal requests
+- Protect our legal rights
 
 --------------------------------------------------------------------------------
 
-6. USE OF VOICE SERVICES
+4. HOW WE SHARE YOUR INFORMATION
 
-6.1 Voice Minutes
-Voice minutes are allocated according to your subscription plan. Minutes reset monthly and do not roll over. Overage charges may apply if you exceed your allocated minutes.
+We do not sell your personal information to third parties.
 
-6.2 Call Recording
-All calls using our voice agent service may be recorded for quality assurance, training, and service improvement. By using the voice service, you consent to call recording.
+We may share your information in the following circumstances:
 
-You are responsible for compliance with call recording laws in your jurisdiction. Some jurisdictions require informing callers that calls may be recorded. You must provide any required notices to your callers.
+4.1 Service Providers
+We share information with trusted third-party vendors who help us operate the Service:
+- Cloud infrastructure providers
+- Database hosting services
+- Voice communication API providers
+- Payment processors
+- Email service providers
+- Analytics services
 
-6.3 Service Availability
-We aim for high service availability but do not guarantee uninterrupted service. Scheduled maintenance will be announced when possible.
+These providers are contractually obligated to protect your information and use it only for the purposes we specify.
 
---------------------------------------------------------------------------------
+4.2 Business Transfers
+If we are involved in a merger, acquisition, reorganization, or sale of assets, your information may be transferred as part of that transaction. We will provide notice before your information is transferred and becomes subject to a different privacy policy.
 
-7. DATA AND PRIVACY
+4.3 Legal Requirements
+We may disclose your information if required to do so by law or in response to:
+- Court orders or subpoenas
+- Legal processes or government requests
+- Protection of our rights, property, or safety
+- Protection of the rights, property, or safety of others
+- Investigation of fraud or security issues
 
-7.1 Data Ownership
-You retain ownership of all business data you submit to the Service. We own the Service infrastructure, software, and platform.
-
-7.2 Data Processing
-We process your data solely to provide the Service. See our Privacy Policy for complete information about data collection, use, and protection.
-
-7.3 Data Export
-You may export your data at any time through your account dashboard. Contact services@unitzero.tech for assistance with data export.
-
-7.4 Data Retention
-We retain your data while your account is active. After account deletion, we retain data for 30 days before permanent deletion. Some data may be retained longer if required by law. Call recordings are retained for up to one year unless you request earlier deletion.
-
---------------------------------------------------------------------------------
-
-8. THIRD-PARTY SERVICES
-
-The Service relies on third-party infrastructure providers, including cloud services, APIs, and databases, to deliver functionality. We are not responsible for the availability, performance, or actions of third-party services. Third-party services have their own terms and privacy policies.
+4.4 With Your Consent
+We may share information for other purposes with your explicit consent.
 
 --------------------------------------------------------------------------------
 
-9. DISCLAIMERS
+5. DATA SECURITY
 
-THE SERVICE IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED.
+We implement reasonable technical and organizational measures to protect your information:
 
-We specifically disclaim all warranties, including:
-- Warranties of merchantability or fitness for a particular purpose
-- That the Service will be uninterrupted, timely, secure, or error-free
-- That results obtained from the Service will be accurate or reliable
-- That defects will be corrected
+5.1 Technical Safeguards
+- Industry-standard encryption for data transmission (HTTPS/SSL)
+- Secure cloud infrastructure provided by reputable vendors
+- Access controls and authentication mechanisms
+- Regular security monitoring and logging
 
-We do not guarantee that the Service will meet your requirements or achieve any particular business results.
+5.2 Organizational Safeguards
+- Limited employee access to personal information
+- Confidentiality agreements with personnel
+- Regular security training
+- Incident response procedures
 
-You use the Service at your own risk. Some jurisdictions do not allow disclaimer of implied warranties, so portions of this disclaimer may not apply to you.
+5.3 Limitations
+No method of transmission over the internet or electronic storage is completely secure. While we implement reasonable security measures, we cannot guarantee absolute security of your information.
 
---------------------------------------------------------------------------------
+You are responsible for:
+- Maintaining the confidentiality of your password
+- Restricting access to your account
+- Notifying us immediately of any security breach
 
-10. LIMITATION OF LIABILITY
-
-TO THE MAXIMUM EXTENT PERMITTED BY LAW:
-
-UNITZERO PVT. LTD. SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO LOSS OF PROFITS, DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES, ARISING FROM:
-- Your use of or inability to use the Service
-- Unauthorized access to your data
-- Service interruptions or errors
-- Third-party conduct or content
-- Any other matter relating to the Service
-
-OUR TOTAL LIABILITY FOR ALL CLAIMS ARISING FROM THE SERVICE SHALL NOT EXCEED THE GREATER OF (A) THE AMOUNT YOU PAID US IN THE 12 MONTHS PRECEDING THE CLAIM, OR (B) $100 USD.
-
-Some jurisdictions do not allow limitation of liability, so these limitations may not fully apply to you.
+If you discover a security vulnerability, contact us immediately at services@unitzero.tech.
 
 --------------------------------------------------------------------------------
 
-11. INDEMNIFICATION
+6. DATA RETENTION
 
-You agree to indemnify and hold harmless UNITZERO Pvt. Ltd., its officers, directors, employees, and agents from any claims, damages, losses, liabilities, and expenses (including reasonable attorneys' fees) arising from:
-- Your use of the Service
-- Your violation of these Terms
-- Your violation of any laws or third-party rights
-- Content you provide through the Service
+6.1 Active Accounts
+We retain your information for as long as your account is active or as needed to provide the Service.
 
-We reserve the right to assume exclusive defense of any matter subject to indemnification at your expense.
+6.2 Deleted Accounts
+After you delete your account, we retain your data for 30 days before permanent deletion. This allows for account recovery if deletion was accidental.
 
---------------------------------------------------------------------------------
+6.3 Call Recordings
+Call recordings are retained for up to one year unless you request earlier deletion.
 
-12. TERMINATION
+6.4 Legal Requirements
+We may retain certain information longer if required by law, to resolve disputes, enforce our agreements, or for legitimate business purposes.
 
-12.1 Termination by You
-You may cancel your subscription at any time. Cancellation takes effect at the end of your billing period.
+6.5 Data Deletion Requests
+To request deletion of your data, contact services@unitzero.tech with:
+- Your account email address
+- Specific data you wish to delete
+- Verification of your identity
 
-12.2 Termination by Us
-We may suspend or terminate your access immediately if you:
-- Violate these Terms
-- Fail to pay fees when due
-- Engage in fraudulent or illegal activities
-- Misuse the platform
-- Pose a security risk
-
-12.3 Effects of Termination
-Upon termination:
-- Your access to the Service is immediately revoked
-- All unpaid fees become immediately due
-- You may request data export within 30 days
-- After 30 days, we may permanently delete your data
-- No refunds are provided for early termination
-
-12.4 Survival
-The following sections survive termination: Intellectual Property, Disclaimers, Limitation of Liability, Indemnification, and Governing Law.
+We will process deletion requests within 30 days, subject to legal retention requirements.
 
 --------------------------------------------------------------------------------
 
-13. MODIFICATIONS
+7. COOKIES AND TRACKING
 
-13.1 Service Changes
-We may modify, update, or discontinue the Service or any features at any time with or without notice. We are not liable for any modification or discontinuation.
+7.1 Types of Cookies We Use
 
-13.2 Terms Changes
-We may modify these Terms at any time. Material changes will be announced at least 30 days before taking effect. Continued use after changes take effect constitutes acceptance. If you disagree with changes, you must stop using the Service.
+Session Cookies:
+Required for authentication and maintaining your login state. These expire when you close your browser.
 
---------------------------------------------------------------------------------
+Preference Cookies:
+Store your settings and preferences. These persist across sessions.
 
-14. DISPUTE RESOLUTION
+Analytics Cookies:
+Help us understand how users interact with the Service to improve performance and features.
 
-14.1 Governing Law
-These Terms are governed by the laws of Pakistan, without regard to conflict of law principles.
+7.2 Managing Cookies
+You can control cookies through your browser settings. However, disabling cookies may limit your ability to use certain features of the Service.
 
-14.2 Jurisdiction
-You agree to the exclusive jurisdiction of the courts located in Karachi, Pakistan for resolution of any disputes arising from these Terms or the Service.
+Most browsers accept cookies automatically, but you can modify your browser settings to decline cookies. Refer to your browser's help documentation for instructions.
 
-14.3 Informal Resolution
-Before pursuing any legal action, you agree to first contact us at services@unitzero.tech to attempt informal resolution of the dispute.
-
-14.4 Individual Disputes Only
-You agree that disputes will be resolved on an individual basis and not as part of any class action or representative proceeding.
+7.3 Do Not Track
+Some browsers have a "Do Not Track" feature. Currently, we do not respond to Do Not Track signals.
 
 --------------------------------------------------------------------------------
 
-15. GENERAL PROVISIONS
+8. YOUR RIGHTS AND CHOICES
 
-15.1 Entire Agreement
-These Terms, together with our Privacy Policy and License, constitute the entire agreement between you and UNITZERO regarding the Service.
+Depending on your location, you may have certain rights regarding your personal information:
 
-15.2 Severability
-If any provision is found unenforceable, the remaining provisions remain in full effect.
+8.1 Access
+You can access most of your information through your account dashboard. For additional information, contact services@unitzero.tech.
 
-15.3 No Waiver
-Our failure to enforce any provision does not waive our right to enforce it later.
+8.2 Correction
+You can update your account information through your account settings. Contact us for assistance correcting information you cannot update yourself.
 
-15.4 Assignment
-You may not assign these Terms without our written consent. We may assign these Terms to any successor or affiliate.
+8.3 Deletion
+You can request deletion of your account and data by contacting services@unitzero.tech. Note that some information may be retained as described in the Data Retention section.
 
-15.5 Force Majeure
-We are not liable for failure to perform due to circumstances beyond our reasonable control, including natural disasters, war, terrorism, riots, embargoes, acts of civil or military authorities, fire, floods, accidents, pandemics, strikes, or shortages of transportation, facilities, fuel, energy, labor, or materials.
+8.4 Data Portability
+You can export your data through your account dashboard. For assistance, contact services@unitzero.tech.
 
-15.6 Notices
-All notices to us must be sent to services@unitzero.tech. Notices to you will be sent to the email address associated with your account.
+8.5 Opt-Out of Communications
+You can opt out of marketing emails by clicking the unsubscribe link in any marketing email. Note that you cannot opt out of transactional emails related to your account or Service use.
 
-15.7 Export Compliance
-You agree to comply with all applicable export and import control laws and regulations.
+8.6 Object to Processing
+In certain circumstances, you may object to our processing of your information. Contact services@unitzero.tech to exercise this right.
 
 --------------------------------------------------------------------------------
 
-16. CONTACT
+9. VOICE CALL RECORDING
 
-For questions about these Terms:
+9.1 Recording Notice
+All calls using our voice agent service may be recorded for quality assurance, training, and service improvement purposes.
+
+By using our voice services, you consent to call recording. By calling our voice agents, callers consent to recording.
+
+9.2 Your Responsibilities
+You are responsible for compliance with call recording laws in your jurisdiction and the jurisdiction of your callers.
+
+Some jurisdictions require explicit consent before recording calls. You must:
+- Provide any required notices to callers
+- Obtain any required consent
+- Comply with all applicable recording laws
+
+We are not responsible for your failure to comply with call recording laws.
+
+9.3 Use of Recordings
+We may use call recordings to:
+- Improve voice agent performance
+- Train AI models
+- Ensure quality of service
+- Resolve disputes
+- Comply with legal obligations
+
+9.4 Recording Retention and Deletion
+Call recordings are retained for up to one year. You may request earlier deletion by contacting services@unitzero.tech.
+
+--------------------------------------------------------------------------------
+
+10. CALIFORNIA PRIVACY RIGHTS
+
+If you are a California resident, you have specific rights under the California Consumer Privacy Act (CCPA) and California Privacy Rights Act (CPRA).
+
+10.1 Your California Rights
+
+Right to Know:
+You can request information about the personal information we have collected about you, including:
+- Categories of personal information collected
+- Categories of sources from which information was collected
+- Business or commercial purposes for collection
+- Categories of third parties with whom we share information
+- Specific pieces of personal information collected
+
+Right to Delete:
+You can request deletion of personal information we have collected, subject to certain exceptions.
+
+Right to Correct:
+You can request correction of inaccurate personal information.
+
+Right to Opt-Out of Sale or Sharing:
+We do not sell or share personal information for cross-context behavioral advertising.
+
+Right to Non-Discrimination:
+We will not discriminate against you for exercising your CCPA rights.
+
+10.2 Categories of Personal Information
+
+We collect the following categories of personal information from California residents:
+
+- Identifiers (name, email, phone number, IP address)
+- Commercial information (subscription details, payment history)
+- Internet or network activity (usage logs, browsing activity)
+- Audio information (call recordings)
+- Professional information (company name, business details)
+- Inferences (preferences, characteristics derived from other information)
+
+10.3 Purposes for Collection
+
+We collect personal information for the purposes described in Section 3 (How We Use Your Information).
+
+10.4 Disclosure of Personal Information
+
+We disclose personal information to service providers for business purposes as described in Section 4 (How We Share Your Information). We do not sell personal information.
+
+10.5 Exercising Your California Rights
+
+To exercise your rights, submit a request to services@unitzero.tech with subject line "California Privacy Rights Request."
+
+Include in your request:
+- Your full name
+- Email address associated with your account
+- Specific request (access, deletion, or correction)
+- Enough information to verify your identity
+
+We will respond within 45 days. If we need additional time, we will notify you.
+
+10.6 Authorized Agents
+
+You may designate an authorized agent to submit requests on your behalf. The agent must provide:
+- Proof of authorization
+- Verification of your identity
+- Verification of the agent's identity
+
+10.7 Shine the Light Law
+
+California residents can request information about disclosure of personal information to third parties for direct marketing purposes. We do not share personal information with third parties for their direct marketing.
+
+--------------------------------------------------------------------------------
+
+11. CHILDREN'S PRIVACY
+
+The Service is not intended for individuals under 18 years of age. We do not knowingly collect personal information from individuals under 18.
+
+If you are under 18, do not use the Service or provide any information to us.
+
+If we discover that we have collected information from someone under 18, we will delete it immediately. If you believe we have collected information from someone under 18, contact us at services@unitzero.tech.
+
+--------------------------------------------------------------------------------
+
+12. INTERNATIONAL DATA TRANSFERS
+
+Your information may be transferred to and processed in countries other than your country of residence, including Pakistan and other countries where our service providers operate.
+
+These countries may have data protection laws different from your country. By using the Service, you consent to the transfer of your information to these countries.
+
+We take reasonable steps to ensure your information receives adequate protection in accordance with this Privacy Policy.
+
+--------------------------------------------------------------------------------
+
+13. THIRD-PARTY LINKS AND SERVICES
+
+The Service may contain links to third-party websites or integrate with third-party services. This Privacy Policy does not apply to those third-party websites or services.
+
+We are not responsible for the privacy practices of third parties. We encourage you to review the privacy policies of any third-party websites or services you visit.
+
+--------------------------------------------------------------------------------
+
+14. CHANGES TO THIS PRIVACY POLICY
+
+We may update this Privacy Policy from time to time to reflect changes in our practices, technology, legal requirements, or other factors.
+
+14.1 Notice of Changes
+We will notify you of material changes by:
+- Posting the updated Privacy Policy with a new "Last Updated" date
+- Sending an email to the address associated with your account
+- Providing notice through the Service
+
+14.2 Continued Use
+Your continued use of the Service after the effective date of changes constitutes acceptance of the updated Privacy Policy.
+
+14.3 Review
+We encourage you to review this Privacy Policy periodically.
+
+--------------------------------------------------------------------------------
+
+15. CONTACT INFORMATION
+
+For questions, concerns, or requests regarding this Privacy Policy or our privacy practices:
 
 UNITZERO Pvt. Ltd.
 Email: services@unitzero.tech
 Location: Karachi, Pakistan
 
-For specific inquiries, include the following in your subject line:
-- Billing questions: "Billing Inquiry"
-- Technical support: "Technical Support"
-- Legal matters: "Legal Inquiry"
+For specific privacy matters, include the following in your subject line:
+- General privacy questions: "Privacy Inquiry"
+- Data access requests: "Data Access Request"
+- Data deletion requests: "Data Deletion Request"
+- California privacy requests: "California Privacy Rights Request"
 
-We aim to respond within 7 business days.
+We aim to respond to all inquiries within 7 business days, or within 45 days for California rights requests.
+
+--------------------------------------------------------------------------------
+
+APPENDIX: DATA PROCESSING SUMMARY
+
+Personal Information:
+- Purpose: Account management and service delivery
+- Retention: Duration of account plus 30 days
+- Security: Password hashing, access controls, secure transmission
+
+Usage Data:
+- Purpose: Service improvement and analytics
+- Retention: Up to one year
+- Security: Aggregation, de-identification for analytics
+
+Call Recordings:
+- Purpose: Quality assurance, training, improvement
+- Retention: Up to one year
+- Security: Encrypted storage, access controls
+
+Payment Information:
+- Purpose: Transaction processing
+- Retention: As required by payment processors and law
+- Security: Handled by PCI-compliant payment processors
+
+Technical Data:
+- Purpose: Security, fraud prevention, troubleshooting
+- Retention: Up to one year
+- Security: Access controls, monitoring
 
 --------------------------------------------------------------------------------
 
 Last Updated: January 2025
 Version 1.0
-
-BY USING AUTOMATE BOUTIQUE, YOU ACKNOWLEDGE THAT YOU HAVE READ AND AGREE TO THESE TERMS OF SERVICE.
