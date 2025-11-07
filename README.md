@@ -53,10 +53,6 @@ UnitZero Pvt. Ltd. provides a hosted automation and workflow platform with:
 ## ⚖️ License Summary
 
 - **Source Code:** Proprietary (UNITZERO Pvt. Ltd.)
-- **Third-Party Components:** Licensed separately (see LICENSE.md)
-  - n8n: Sustainable Use License
-  - Supabase: Apache 2.0 License
-  - React/Next.js: MIT License
 
 ---
 
